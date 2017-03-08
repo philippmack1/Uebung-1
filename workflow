@@ -12,8 +12,12 @@
 
 ## Dokument in Git Gui
 1. über Rescan hinzufügen
-2. über Stage Changed gemachte Änderungen nachverfolgen 
+2. über Stage Changed gemachte Änderungen nachverfolgen (+ und grün bedeutet hinzugefügte Änderungen; - und rot bedeutet gelöschte Änderungen)
 3. über sign off Änderungen kommentieren
-4. über Commit Änderungen bestätigen
+4. über Commit Änderungen bestätigen (Default file contents encoding muss auf utf-8 eingestellt sein; User Name bestimmen!)
 5. über Push Änderungen hochladen
+	5.1 In GitHub erstellen eies neuen Repositorys
+	5.2 In GitGui: Add->Benutzername von GitHub eintragen -> als Location Link von neuem Repository eintragen 
+	5.3 Auf Push klicken -> Datei wird in GitHub geladen
+
 
