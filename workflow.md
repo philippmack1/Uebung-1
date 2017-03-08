@@ -16,8 +16,8 @@
 3. über sign off Änderungen kommentieren
 4. über Commit Änderungen bestätigen (Default file contents encoding muss auf utf-8 eingestellt sein; User Name bestimmen!)
 5. über Push Änderungen hochladen
-	5.1 In GitHub erstellen eies neuen Repositorys
-	5.2 In GitGui: Add->Benutzername von GitHub eintragen -> als Location Link von neuem Repository eintragen 
-	5.3 Auf Push klicken -> Datei wird in GitHub geladen
+	* In GitHub erstellen eies neuen Repositorys
+	* In GitGui: Add->Benutzername von GitHub eintragen -> als Location Link von neuem Repository eintragen 
+	* Auf Push klicken -> Datei wird in GitHub geladen
 
 
