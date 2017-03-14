@@ -33,6 +33,7 @@ Quelle:Mit Push Datei auf GitHub laden
 4. md-Datei mit drag and drop reinziehen
 	
 Abbildung URLs zulassen:
+
 ![URLs zulassen](URLs_zulassen.JPG)
 Quelle: Eigene Darstellung
 
