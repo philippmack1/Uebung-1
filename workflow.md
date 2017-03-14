@@ -32,8 +32,9 @@ Quelle:Mit Push Datei auf GitHub laden
 3. Erweiterungen verwalten -> Zugriff auf Datei-URLs zulassen anklicken
 4. md-Datei mit drag and drop reinziehen
 	
-Abbildung: URLs zulassen
+Abbildung URLs zulassen:
 ![URLs zulassen](URLs zulassen.JPG)
+Quelle: Eigene Darstellung
 
 ## Bild einfügen
 1. Gewünschtes Bild in Repository abspeichern
