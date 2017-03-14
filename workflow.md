@@ -27,7 +27,7 @@ Dokument auf GitHub geladen:
 Quelle:Mit Push Datei auf GitHub laden
 
 ## Darstellung im Web - Markdown Preview einrichten
-1. Markdown Preiew herunterladen unter: (https://chrome.google.com/webstore/detail/markdown-preview/jmchmkecamhbiokiopfpnfgbidieafmd/related) 
+1. Markdown Preiew herunterladen unter: ![Markdown Preview](https://chrome.google.com/webstore/detail/markdown-preview/jmchmkecamhbiokiopfpnfgbidieafmd/related) 
 2. Hinzufügen
 3. Erweiterungen verwalten -> Zugriff auf Datei-URLs zulassen anklicken
 4. md-Datei mit drag and drop reinziehen
@@ -43,7 +43,7 @@ Quelle: Eigene Darstellung
 2. mit dem Befehl '![Titel des Bildes](DateinameimOrdner.jpg)' einfügen. Aufpassen: keine Leerzeichen!!
 
 ## Link einfügen
-mit dem Befehl '![Gewünschter Titel des Links](link)', auch hier aufpassen, dass keine Leerzeichen verwendet werden!
+mit dem Befehl '![[Gewünschter Titel des Links]]((link))', auch hier aufpassen, dass keine Leerzeichen verwendet werden!!
 
 	
 
