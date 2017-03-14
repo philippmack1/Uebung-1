@@ -42,6 +42,9 @@ Quelle: Eigene Darstellung
 1. Gewünschtes Bild in Repository abspeichern
 2. mit "![Titel des Bildes](DateinameimOrdner.jpg)" einfügen. Aufpassen: keine Leerzeichen!!
 
+## Link einfügen
+mit dem Befehl:![Gewünschter Titel des Links](link), auch hier aufpassen, dass keine Leerzeichen verwendet werden!
+
 	
 
 
