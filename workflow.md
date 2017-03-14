@@ -37,7 +37,7 @@ Abbildung: URLs zulassen
 ## Bild einfügen
 1. Gewünschtes Bild in Repository abspeichern
 2. mit ![Titel des Bildes](DateinameimOrdner.jpg) einfügen. Aufpassen: keine Leerzeichen!!
-
+.
 	
 
 
