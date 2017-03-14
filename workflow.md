@@ -24,7 +24,7 @@
 
 Dokument auf GitHub geladen:
 ![Mit Push Datei auf GitHub laden](github.JPG)
-Quelle:[Mit Push Datei auf GitHub laden]
+Quelle:Mit Push Datei auf GitHub laden
 
 ## Darstellung im Web - Markdown Preview einrichten
 1. Markdown Preiew herunterladen unter: (https://chrome.google.com/webstore/detail/markdown-preview/jmchmkecamhbiokiopfpnfgbidieafmd/related) 
@@ -33,7 +33,7 @@ Quelle:[Mit Push Datei auf GitHub laden]
 4. md-Datei mit drag and drop reinziehen
 	
 Abbildung: URLs zulassen
-![URLs zulassen](URLs zulassen.jpg)
+![URLs zulassen](URLs zulassen.JPG)
 
 ## Bild einfügen
 1. Gewünschtes Bild in Repository abspeichern
