@@ -23,7 +23,7 @@
 	* Auf Push klicken -> Datei wird in GitHub geladen
 
 Dokument auf GitHub geladen:
-![Mit Push Datei auf GitHub laden](github.jpg)
+![Mit Push Datei auf GitHub laden](github.JPG)
 Quelle:[Mit Push Datei auf GitHub laden]
 
 ## Darstellung im Web - Markdown Preview einrichten
