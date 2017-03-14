@@ -9,6 +9,7 @@
 ## Neues Dokument erstellen
 1. Notepad++ öffnen
 2. Speichern in erstelltem Ordner/Repository -> namedokument.md -> speichern als Dateityp "alltypes"
+3. Anzahl der # bestimmt Grad der Überschrift, weitere Codes unter: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Dokument in Git Gui
 1. über Rescan hinzufügen
@@ -21,8 +22,7 @@
 	* In GitGui: Add->Benutzername von GitHub eintragen -> als Location Link von neuem Repository eintragen 
 	* Auf Push klicken -> Datei wird in GitHub geladen
 
-## Dokument auf GitHub geladen
-
+Dokument auf GitHub geladen:
 ![Mit Push Datei auf GitHub laden](github.jpg)
 Quelle: Eigene Darstellung
 
