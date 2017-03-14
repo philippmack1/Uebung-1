@@ -9,7 +9,7 @@
 ## Neues Dokument erstellen
 1. Notepad++ öffnen
 2. Speichern in erstelltem Ordner/Repository -> namedokument.md -> speichern als Dateityp "alltypes"
-3. Anzahl der # bestimmt Grad der Überschrift, weitere Codes unter: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+3. Anzahl der # bestimmt Grad der Überschrift, weitere Codes unter: ![Markdwon Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Dokument in Git Gui
 1. über Rescan hinzufügen
@@ -40,7 +40,7 @@ Quelle: Eigene Darstellung
 
 ## Bild einfügen
 1. Gewünschtes Bild in Repository abspeichern
-2. mit "![Titel des Bildes](DateinameimOrdner.jpg)" einfügen. Aufpassen: keine Leerzeichen!!!
+2. mit "![Titel des Bildes](DateinameimOrdner.jpg)" einfügen. Aufpassen: keine Leerzeichen!!
 
 	
 
