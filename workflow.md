@@ -43,7 +43,7 @@ Quelle: Eigene Darstellung
 2. mit dem Befehl '![Titel des Bildes](DateinameimOrdner.jpg)' einfügen. Aufpassen: keine Leerzeichen!!
 
 ## Link einfügen
-mit dem Befehl '![[Gewünschter Titel des Links]]((link))', auch hier aufpassen, dass keine Leerzeichen verwendet werden!!
+mit dem Befehl $![Gewünschter Titel des Links](link)$, auch hier aufpassen, dass keine Leerzeichen verwendet werden!!
 
 	
 
