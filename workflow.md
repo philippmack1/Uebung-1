@@ -35,6 +35,7 @@ Quelle:Mit Push Datei auf GitHub laden
 Abbildung URLs zulassen:
 
 ![URLs zulassen](URLs_zulassen.JPG)
+
 Quelle: Eigene Darstellung
 
 ## Bild einfügen
